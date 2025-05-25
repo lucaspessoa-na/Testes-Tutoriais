@@ -11,4 +11,5 @@ carlos = Dog("Carlos", 3)
 palito = Dog("Palito", 4)
 #acess the instance info with (object.info)
 print(carlos.name)
+a=2
 
